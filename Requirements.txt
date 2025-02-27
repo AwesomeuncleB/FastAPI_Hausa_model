@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+transformers
+datasets
+pydantic
+numpy
+ffmpeg-python
