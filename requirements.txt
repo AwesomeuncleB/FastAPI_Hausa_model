@@ -6,3 +6,4 @@ datasets
 pydantic
 numpy
 ffmpeg-python
+python-multipart
